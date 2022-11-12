@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I;m EVANA T D
+Currently doing Msc DataScience in Christ University ,Lavasa,Pune
 
 <!--
 **EVANATD/EVANATD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
